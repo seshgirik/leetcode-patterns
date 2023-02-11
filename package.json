@@ -24,7 +24,7 @@
     "react-toggle": "^4.1.1",
     "react-tooltip": "^3.11.2",
     "reactstrap": "^8.8.1",
-    "sass": "1.49.0"
+    "sass": "1.57.1"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
