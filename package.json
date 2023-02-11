@@ -23,7 +23,7 @@
     "react-test-renderer": "^16.14.0",
     "react-toggle": "^4.1.1",
     "react-tooltip": "^3.11.2",
-    "reactstrap": "^8.8.1",
+    "reactstrap": "^8.10.1",
     "sass": "1.49.0"
   },
   "devDependencies": {
